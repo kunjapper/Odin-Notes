@@ -108,8 +108,8 @@ function game(){
     
     /*
     play the first game and score update
-
     report the winner
+    TESTING
     */
     }
 }
